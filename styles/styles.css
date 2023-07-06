@@ -13,6 +13,9 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 nav {
@@ -82,6 +85,21 @@ nav a {
     height: 414px;
 }
 
-
-
 /* Banner Area End  */
+
+/* Logo Area Start */
+
+.logos {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 165px;
+    margin-right: 165px;
+}
+
+.logo {
+    padding: 40px;
+}
+
+
+/* Logo Area End */
