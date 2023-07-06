@@ -141,4 +141,62 @@ nav a {
     color: #FB8200;
 }
 
+.see-more {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 145px;
+    color: rgba(224, 44, 109, 0.87);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.see-more a {
+    text-decoration: none;
+    color: rgba(224, 44, 109, 0.87);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.fa-arrow-right-long {
+    padding-left: 8px;
+}
+
 /* Popular Item End  */
+
+/* Featured Products Area Start */
+
+.featured-products {
+    display: flex;
+    padding-left: 165px;
+}
+
+.featured-image {
+    width: 404px;
+    height: 270px;
+    margin-right: 120px;
+}
+
+.featured-image img {
+    width: 100%;
+}
+
+.featured-text p {
+    width: 501px;
+    height: 88px;
+}
+
+.featured-text h3 {
+    font-size: 38px;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.featured-text a {
+    text-decoration: none;
+    background-color: #E02C6D;
+    color: #ffffff;
+    padding: 10px 24px;
+}
+
+
+/* Featured Products Area End */
